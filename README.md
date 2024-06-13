@@ -1,7 +1,6 @@
 
 # YouTube Comment Sentiment Analysis Tool
 
-![Sentiment Analysis Tool](link-to-your-image)
 
 ## Overview
 
