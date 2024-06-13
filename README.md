@@ -1,6 +1,8 @@
 
 # YouTube Comment Sentiment Analysis Tool
 
+![image](https://github.com/RanaweeraHK/Youtube-Comment-Sentiment-Analyzer/assets/129282753/88d24baf-c500-4fa1-9f2c-48d14b0f9a5f)
+
 
 ## Overview
 
