@@ -17,7 +17,7 @@ app = Flask(__name__)
 CORS(app)
 
 # Load environment variables
-DEVELOPER_KEY = os.getenv('YOUTUBE_API_KEY', 'AIzaSyA4-dDoBsXpMbyfvXEXkE3ZWZTqytHsosE')
+DEVELOPER_KEY = os.getenv('YOUTUBE_API_KEY', 'paste your API key')
 
 # Instantiate the model
 tokenizer = AutoTokenizer.from_pretrained("nlptown/bert-base-multilingual-uncased-sentiment")
